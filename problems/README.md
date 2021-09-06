@@ -23,7 +23,7 @@
 1. 먼저 원격 저장소(Github)와 동기화합니다.  
 ```bash
 > git checkout main      # main 브랜치로 이동합니다.
-> git pull               # 원격저장소의 main 브랜치와 동기화합니다.
+> git pull               # main 브랜치의 최신 파일들을 가져옵니다.
 ```
 2. main 브랜치로부터 자신의 브랜치를 만듭니다.  
 ```bash
