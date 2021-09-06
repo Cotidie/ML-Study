@@ -1,6 +1,6 @@
 # 2주차 문제
  ## Pandas 연습
-  * **문제:** 다음 파일들의 각 셀에 알맞은 코드 넣기
+  * **문제:** 다음 연습문제 풀기
 	* [이곳(kaggle)](https://www.kaggle.com/learn/pandas)에서 1~3번 Exercise를 푼 후 작성한 파일을 업로드해주세요.
 	* (옵션) 조금 더 다뤄보고 싶다면 이 문제도 풀어보세요. 
 		* 파일: Pandas_Alcohol_Consumption.ipynb
