@@ -13,6 +13,7 @@
  
  ## Pull Request
   Git CLI(Git Bash) 기준입니다. GUI를 활용하는 경우에도 똑같은 절차를 밟으면 됩니다.
+  
 0. 기존에 만들어둔 브랜치가 있다면 삭제합니다.
 ```bash
 > git branch -d <삭제할 브랜치>                # 로컬 브랜치 삭제
