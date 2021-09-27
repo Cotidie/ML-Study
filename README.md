@@ -5,7 +5,8 @@
 * **참여자**: ~4명
 * **날짜**: 매주 일요일 저녁 7시 (변경가능)
 * **모임**: 구글 Meet (변경가능)
-* **교재**: [파이썬 라이브러리를 활용한 머신러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=14645299)
+* <s>**교재**: [파이썬 라이브러리를 활용한 머신러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=14645299)</s>
+* **교재**: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ## :dart: 목표
  데이터분석과 머신러닝 기초 학습 후 캐글 실습을 진행합니다.
@@ -27,8 +28,8 @@
 * **3회 (21.09.12.)** | 비지도 학습
   * 목표분량: ~교재 Ch.3.3 데이터 전처리와 스케일 조정 (~193p)
   * 연습문제: pandas 연습문제
-* **4회 (21.09.19.)** | 비지도 학습
-  * 목표분량, 연습문제: 지난주와 동일
+* **4회 (21.09.26.)** | 스터디 방식 변경
+  * 목표분량, 연습문제: Coursera 강의 1주차
 
 ## :bookmark_tabs: 스터디 문서
 
