@@ -3,7 +3,7 @@
  [2021 데이터 크리에이터 캠프]()를 위해 2021.08~2021.10 중 진행한 부산대 머신러닝 스터디 모임입니다.
 
 * **참여자**: ~4명
-* **날짜**: 매주 일요일 저녁 7시 (변경가능)
+* **날짜**: 매주 금요일 저녁 10시 30분 (변경가능)
 * **모임**: 구글 Meet (변경가능)
 * <s>**교재**: [파이썬 라이브러리를 활용한 머신러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=14645299)</s>
 * **교재**: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
